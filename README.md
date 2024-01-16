@@ -10,6 +10,8 @@ https://epg.112114.xyz/pp.xml.gz
 Fongmi的TV - https://github.com/FongMi/Release
 https://mirror.ghproxy.com/https://github.com/superxyj2021/PrivateTV/raw/main/online.json
 
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/superxyj2021/PrivateTV/main/online.json
+
 
 
 点播接口

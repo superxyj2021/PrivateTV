@@ -5,3 +5,6 @@ https://mirror.ghproxy.com/https://github.com/superxyj2021/PrivateTV/raw/main/IP
 
 EPG地址
 https://epg.112114.xyz/pp.xml.gz
+
+TVBOX
+https://mirror.ghproxy.com/https://github.com/superxyj2021/PrivateTV/raw/main/online.json

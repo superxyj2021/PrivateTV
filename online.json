@@ -1,0 +1,10 @@
+{
+  "lives": [
+    {
+      "name": "IPTV",
+      "url": "https://mirror.ghproxy.com/https://github.com/superxyj2021/PrivateTV/raw/main/IPTV.m3u",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ]
+}

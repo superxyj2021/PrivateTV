@@ -6,5 +6,5 @@ https://mirror.ghproxy.com/https://github.com/superxyj2021/PrivateTV/raw/main/IP
 EPG地址
 https://epg.112114.xyz/pp.xml.gz
 
-TVBOX
+Fongmi的TV - https://github.com/FongMi/Release
 https://mirror.ghproxy.com/https://github.com/superxyj2021/PrivateTV/raw/main/online.json

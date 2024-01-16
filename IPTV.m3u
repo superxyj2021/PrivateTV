@@ -13,7 +13,7 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232596/341734363.sm
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4.png" group-title="央视直播",CCTV4
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229749/114276458.smil/index.m3u8?fmt=ts2hls
 
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" group-title="央视直播",CCTV5
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" group-title="央视直播" group-title="体育",CCTV5
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232648/341733164.smil/index.m3u8?fmt=ts2hls
 
@@ -106,6 +106,21 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdszn.png" group-title="央视直播",电视指南
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 
+#EXTINF:-1 tvg-id="18" tvg-name="CGTN" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTN.png" group-title="央视直播",CGTN
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228416/44198373.smil/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="71" tvg-name="CGTN阿语" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNalby.png" group-title="央视直播",CGTN阿拉伯语
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235408/682134875.smil/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="72" tvg-name="CGTN俄语" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNey.png" group-title="央视直播",CGTN俄语
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235403/682648381.smil/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="73" tvg-name="CGTN法语" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNfy.png" group-title="央视直播",CGTN法语
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235412/682638554.smil/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="75" tvg-name="CGTN西语" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNxbyy.png" group-title="央视直播",CGTN西班牙语
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235414/682652892.smil/index.m3u8?fmt=ts2hls
+
 
 #浙江本地直播
 #EXTINF:-1 tvg-id="26" tvg-name="浙江钱江都市" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Zhejiang1.png" group-title="浙江本地直播",浙江钱江都市
@@ -151,22 +166,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/32212
 
 #EXTINF:-1 tvg-id="D03" tvg-name="凤凰香港" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix3.png" group-title="国际",凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-
-#EXTINF:-1 tvg-id="18" tvg-name="CGTN" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTN.png" group-title="国际",CGTN
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228416/44198373.smil/index.m3u8?fmt=ts2hls
-
-#EXTINF:-1 tvg-id="71" tvg-name="CGTN阿语" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNalby.png" group-title="国际",CGTN阿拉伯语
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235408/682134875.smil/index.m3u8?fmt=ts2hls
-
-#EXTINF:-1 tvg-id="72" tvg-name="CGTN俄语" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNey.png" group-title="国际",CGTN俄语
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235403/682648381.smil/index.m3u8?fmt=ts2hls
-
-#EXTINF:-1 tvg-id="73" tvg-name="CGTN法语" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNfy.png" group-title="国际",CGTN法语
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235412/682638554.smil/index.m3u8?fmt=ts2hls
-
-#EXTINF:-1 tvg-id="75" tvg-name="CGTN西语" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNxbyy.png" group-title="国际",CGTN西班牙语
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235414/682652892.smil/index.m3u8?fmt=ts2hls
-
 
 #卫视直播
 #EXTINF:-1 tvg-id="19" tvg-name="浙江卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Zhejiang.png" group-title="卫视直播",浙江卫视
@@ -274,7 +273,7 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235392/671452326.sm
 
 
 #数字直播
-#EXTINF:-1 tvg-id="C14" tvg-name="纯享4K" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/cx4k.png" group-title="数字",纯享4K
+#EXTINF:-1 tvg-id="C14" tvg-name="纯享4K" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/cx4k.png" group-title="数字直播",纯享4K
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 
 #EXTINF:-1 tvg-id="37" tvg-name="华数欧美影院" tvg-logo="http://112.15.228.65:7167/CPS/images/universal/film/logo/202001/20200106/20200106034308299xlv.png" group-title="数字直播",华数欧美影院

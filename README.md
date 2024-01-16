@@ -1,4 +1,7 @@
 # PrivateTV
 
+APTV订阅地址
+https://mirror.ghproxy.com/https://github.com/superxyj2021/PrivateTV/raw/main/IPTV.m3u
 
-https://github.com/superxyj2021/PrivateTV/raw/main/IPTV.m3u
+EPG地址
+https://epg.112114.xyz/pp.xml.gz
